@@ -1,0 +1,30 @@
+.one{
+    color: rgb(10, 6, 1);
+    padding: 70pt;
+}
+button{
+    a{
+        color:rgb(73, 3, 3);
+    }
+    background-color:rgba(167, 103, 8, 0.651);
+    border-radius: 10px;
+    
+}
+div{
+    padding-left: 800px;
+    
+    
+}
+body{
+    background-size: cover;
+}
+tr{
+    color: aliceblue;
+}
+div two{
+    color: aqua;
+}
+table{
+    float: right;
+    
+}
